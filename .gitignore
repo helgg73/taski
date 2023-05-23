@@ -1,3 +1,8 @@
+# Static
+/backend/static_backend/
+/frontend/build/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
